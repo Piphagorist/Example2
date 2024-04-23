@@ -1,0 +1,21 @@
+{
+    "name": "UnityBase.GameCore",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fa92c06e259264b7286fb850f1418e02",
+        "GUID:b5f227c129480454d81373e3a3eefde8",
+        "GUID:ed022e593bd91483097e0a064e53ea5b",
+        "GUID:7af73e649e9b14af090fb14bfa98c584",
+        "GUID:855109fd30cfb47078e340cdf0c9ad2b",
+        "GUID:bed124639af3c4fb9b4984162ce4209b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SharpBase.DI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7af73e649e9b14af090fb14bfa98c584"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

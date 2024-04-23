@@ -1,0 +1,21 @@
+{
+    "name": "UnityBase.Connection",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fc9008703e5544adda264c36d693d6dd",
+        "GUID:ed022e593bd91483097e0a064e53ea5b",
+        "GUID:bed124639af3c4fb9b4984162ce4209b",
+        "GUID:fa92c06e259264b7286fb850f1418e02",
+        "GUID:7af73e649e9b14af090fb14bfa98c584",
+        "GUID:88afc53ad32b44e5ea854d1d3252cd72"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
